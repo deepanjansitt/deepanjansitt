@@ -167,7 +167,7 @@
 </h4>
 
 <p align="center">
- <a href="https://www.instagram.com/deepanjansitt" target="_blank" rel="btwdeehere"><img src="imgs/gradient/instagram-512.png" width="35" align="center"/></a>
+ <a href="https://www.instagram.com/btwdeehere" target="_blank" rel="deepanjansitt"><img src="imgs/gradient/instagram-512.png" width="35" align="center"/></a>
  <a href="https://www.linkedin.com/in/deepanjansitt" target="_blank" rel="deepanjansitt"><img src="imgs/gradient/linkedin-512.png" width="35" align="center"/></a>
  <a href="https://twitter.com/deepanjansitt" target="_blank" rel="deepanjansitt"><img src="imgs/gradient/twitter-512.png" width="35" align="center"/></a>
  <a href="#" target="_blank" rel="noreferrer"><img src="imgs/gradient/gmail-logo-512.png" width="35" align="center"/></a>
