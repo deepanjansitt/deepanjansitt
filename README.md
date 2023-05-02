@@ -1,7 +1,7 @@
 <!-- ###### HEAD ##### -->
 
+<img width=100% title="Deepanjan Sitt" alt="Deepanjan Sitt" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepanjan🔰Sitt&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img width=100% title="Deepanjan Sitt" alt="Deepanjan Sitt" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=&height=180&section=header&text=Deepanjan🔰Sitt&fontSize=42&fontColor=&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
 <a href="https://deepanjansitt-profile.netlify.app"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
@@ -141,8 +141,6 @@
 <a href="https://www.buymeacoffee.com/deepanjansitt"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
 </p>
 
-
-
-
+<img width=100% title="Deepanjan Sitt" alt="Deepanjan Sitt"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 <!-- ###### END OF FOOTER ##### -->
