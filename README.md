@@ -143,7 +143,6 @@
 
 
 
-<img width=100% title="Deepanjan Sitt" alt="Deepanjan Sitt"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=&height=170&section=footer&fontSize=42&fontColor=&animation=twinkling"/>
 
 
 <!-- ###### END OF FOOTER ##### -->
