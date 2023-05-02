@@ -1,5 +1,6 @@
 <!-- ###### HEAD ##### -->
 
+
 <img width=100% title="Deepanjan Sitt" alt="Deepanjan Sitt" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepanjan🔰Sitt&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 
@@ -14,7 +15,7 @@
 
   
   <p align="center">
-  <img src="https://img.shields.io/github/followers/deepanjansitt?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/>
+  <img src="https://komarev.com/ghpvc/?username=deepanjansitt&label=Visitors&color=0e75b6&style=flat" alt="deepanjansitt" /> <img src="https://img.shields.io/github/followers/deepanjansitt?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/>
  <a href="https://github.com/deepanjansitt?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/deepanjansitt"/></a>
  <a href="mailto:the.young.programmer.team@gmail.com">
@@ -141,6 +142,11 @@
 <a href="https://www.buymeacoffee.com/deepanjansitt"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
 </p>
 
+
+
+
 <img width=100% title="Deepanjan Sitt" alt="Deepanjan Sitt"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+
+
 
 <!-- ###### END OF FOOTER ##### -->
