@@ -1,7 +1,6 @@
 <!-- ###### HEAD ##### -->
 
-<center><img src="https://github.com/deepanjansitt/deepanjansitt/blob/main/Github%20Banner/Background%20Image.png"></center></img>
-
+<center><img src="https://github.com/deepanjansitt/deepanjansitt/blob/main/Github%20Banner/Background%20Image.png" width="2000"></center></img>
 <img width=100% title="Deepanjan Sitt" alt="Deepanjan Sitt" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepanjan🔰Sitt&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 
